@@ -18,8 +18,8 @@
   "scope": "@raulsalitrero",
   "license": "Apache",
   "devDependencies": {
-    "@capacitor/android": "^2.4.7",
-    "@capacitor/core": "^2.4.7",
+    "@capacitor/android": "^3.4.3",
+    "@capacitor/core": "^3.0.0",
     "@ionic/prettier-config": "^1.0.0",
     "@ionic/swiftlint-config": "^1.0.0",
     "@rollup/plugin-node-resolve": "^8.1.0",
@@ -30,7 +30,7 @@
     "typescript": "~3.8.3"
   },
   "peerDependencies": {
-    "@capacitor/core": "^2.4.7"
+    "@capacitor/core": "^3.0.0"
   },
   "files": [
     "dist/",
